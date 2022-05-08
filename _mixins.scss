@@ -1,0 +1,8 @@
+@mixin bgc($bgcolor: #ffffff) {
+    background-color: $bgcolor;
+}
+@mixin gruop {
+    background-color:#33b5e5;
+    border:none;
+    width:100%;
+}
